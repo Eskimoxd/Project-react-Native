@@ -6,6 +6,7 @@ import {StyleSheet
 , TextInput
 , Text
 , Button
+, View
 } from 'react-native';
 
 
